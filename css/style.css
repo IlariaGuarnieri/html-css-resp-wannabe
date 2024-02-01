@@ -149,7 +149,6 @@ img {
     .card{
         margin-top: 40px;
     }
-
     
     .steps .col {
         width: 100%;
@@ -160,6 +159,7 @@ img {
     .why-us{
         background-color: #222;
         padding-top: 3rem;
+        margin-bottom: 0;
     }
 
     .why-us .col{
